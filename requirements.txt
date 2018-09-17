@@ -1,0 +1,8 @@
+django==2.1.1
+djangorestframework==3.8.2
+gunicorn==19.9.0
+pytz==2018.5
+whitenoise==4.1
+slackclient==1.3.0
+slackeventsapi==2.0.0
+django-heroku==0.3.1
